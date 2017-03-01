@@ -17,9 +17,11 @@
     <!-- Custom styles for this template -->
     <link href="assets/styles.css" rel="stylesheet">
 
-    <!-- Easygrid css -->
-    <link href="vendor/rafwell/simple-grid/css/simplegrid.css" rel="stylesheet">    
-    <link href="vendor/rafwell/simple-grid/eonasdan-bootstrap-datetimepicker/build/css/bootstrap-datetimepicker.min.css" rel="stylesheet">
+    <!-- ONLY INCLUDE IF YOU NOT HAVE THOSE DEPENDENCIES -->
+    <link rel="stylesheet" href="vendor/rafwell/simple-grid/eonasdan-bootstrap-datetimepicker/build/css/bootstrap-datetimepicker.min.css" />
+
+    <!-- CSS LARAVEL-SIMPLEGRID -->
+    <link rel="stylesheet" href="vendor/rafwell/simple-grid/css/simplegrid.css">
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
@@ -63,8 +65,11 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <script>window.jQuery || document.write('<script src="assets/bootstrap/assets/js/vendor/jquery.min.js"><\/script>')</script>
     <script src="assets/bootstrap/js/bootstrap.min.js"></script>    
+    <!-- ONLY INCLUDE IF YOU NOT HAVE THOSE DEPENDENCIES -->
     <script src="vendor/rafwell/simple-grid/moment/moment.js"></script>
-    <script src="vendor/rafwell/simple-grid/eonasdan-bootstrap-datetimepicker/build/js/bootstrap-datetimepicker.min.js"></script>    
-    <script src="vendor/rafwell/simple-grid/js/simplegrid.js"></script>        
+    <script type="text/javascript" src="vendor/rafwell/simple-grid/eonasdan-bootstrap-datetimepicker/build/js/bootstrap-datetimepicker.min.js"></script>
+
+    <!-- JS LARAVELSIMPLEGRID -->
+    <script src="vendor/rafwell/simple-grid/js/simplegrid.js"></script>   
   </body>
 </html>

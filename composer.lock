@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "a8117834ffebf79e140d8a656ffd9620",
-    "content-hash": "58211f9af445f632b7db73d2418c7782",
+    "hash": "49da3ccbc6d3f381000c4c00b63f16a6",
+    "content-hash": "e3d4ac8f6c3b081a00b5ecc3b1b42e43",
     "packages": [
         {
             "name": "dnoegel/php-xdg-base-dir",
@@ -1026,16 +1026,16 @@
         },
         {
             "name": "rafwell/laravel-simplegrid",
-            "version": "0.0.2",
+            "version": "1.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/rafwell/laravel-simplegrid.git",
-                "reference": "7c4030f2bf6145a537002202e497f07eac76845b"
+                "reference": "003c358806dd2d18a66f61a734be35063afdf908"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/rafwell/laravel-simplegrid/zipball/7c4030f2bf6145a537002202e497f07eac76845b",
-                "reference": "7c4030f2bf6145a537002202e497f07eac76845b",
+                "url": "https://api.github.com/repos/rafwell/laravel-simplegrid/zipball/003c358806dd2d18a66f61a734be35063afdf908",
+                "reference": "003c358806dd2d18a66f61a734be35063afdf908",
                 "shasum": ""
             },
             "require": {
@@ -1058,7 +1058,7 @@
                 }
             ],
             "description": "A simple component for generating powerful grids with Laravel.",
-            "time": "2017-03-01 17:27:41"
+            "time": "2017-03-01 18:40:07"
         },
         {
             "name": "ramsey/uuid",

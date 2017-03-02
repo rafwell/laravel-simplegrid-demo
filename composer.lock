@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "49da3ccbc6d3f381000c4c00b63f16a6",
-    "content-hash": "e3d4ac8f6c3b081a00b5ecc3b1b42e43",
+    "hash": "82ca8e2c90af354b73a3fa448809743c",
+    "content-hash": "5a4e42f025e4468e8979eac578d7ca57",
     "packages": [
         {
             "name": "dnoegel/php-xdg-base-dir",
@@ -238,16 +238,16 @@
         },
         {
             "name": "laravel/framework",
-            "version": "v5.4.14",
+            "version": "v5.4.15",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/framework.git",
-                "reference": "b4f9e2b7d146d677e8c360df02beaa9391da1fb1"
+                "reference": "ecc6468b8af30b77566a8519ce8898740ef691d7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/framework/zipball/b4f9e2b7d146d677e8c360df02beaa9391da1fb1",
-                "reference": "b4f9e2b7d146d677e8c360df02beaa9391da1fb1",
+                "url": "https://api.github.com/repos/laravel/framework/zipball/ecc6468b8af30b77566a8519ce8898740ef691d7",
+                "reference": "ecc6468b8af30b77566a8519ce8898740ef691d7",
                 "shasum": ""
             },
             "require": {
@@ -363,7 +363,7 @@
                 "framework",
                 "laravel"
             ],
-            "time": "2017-03-01 15:59:14"
+            "time": "2017-03-02 14:41:40"
         },
         {
             "name": "laravel/tinker",
@@ -1026,16 +1026,16 @@
         },
         {
             "name": "rafwell/laravel-simplegrid",
-            "version": "1.0.0",
+            "version": "1.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/rafwell/laravel-simplegrid.git",
-                "reference": "003c358806dd2d18a66f61a734be35063afdf908"
+                "reference": "976bc2b92d92233bd403c7a5863bcd1ed8f3f58d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/rafwell/laravel-simplegrid/zipball/003c358806dd2d18a66f61a734be35063afdf908",
-                "reference": "003c358806dd2d18a66f61a734be35063afdf908",
+                "url": "https://api.github.com/repos/rafwell/laravel-simplegrid/zipball/976bc2b92d92233bd403c7a5863bcd1ed8f3f58d",
+                "reference": "976bc2b92d92233bd403c7a5863bcd1ed8f3f58d",
                 "shasum": ""
             },
             "require": {
@@ -1058,7 +1058,7 @@
                 }
             ],
             "description": "A simple component for generating powerful grids with Laravel.",
-            "time": "2017-03-01 18:40:07"
+            "time": "2017-03-02 17:49:21"
         },
         {
             "name": "ramsey/uuid",
@@ -2736,16 +2736,16 @@
         },
         {
             "name": "phpunit/phpunit",
-            "version": "5.7.14",
+            "version": "5.7.15",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/phpunit.git",
-                "reference": "4906b8faf23e42612182fd212eb6f4c0f2954b57"
+                "reference": "b99112aecc01f62acf3d81a3f59646700a1849e5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/4906b8faf23e42612182fd212eb6f4c0f2954b57",
-                "reference": "4906b8faf23e42612182fd212eb6f4c0f2954b57",
+                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/b99112aecc01f62acf3d81a3f59646700a1849e5",
+                "reference": "b99112aecc01f62acf3d81a3f59646700a1849e5",
                 "shasum": ""
             },
             "require": {
@@ -2814,7 +2814,7 @@
                 "testing",
                 "xunit"
             ],
-            "time": "2017-02-19 07:22:16"
+            "time": "2017-03-02 15:22:43"
         },
         {
             "name": "phpunit/phpunit-mock-objects",

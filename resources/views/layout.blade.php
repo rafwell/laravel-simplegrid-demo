@@ -40,13 +40,13 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">Simplegrid</a>
+          <a class="navbar-brand" href="https://github.com/rafwell/laravel-simplegrid">Simplegrid</a>
         </div>
-        <div id="navbar" class="collapse navbar-collapse">
+        <div id="navbar" class="collapse navbar-collapse">        
           <ul class="nav navbar-nav">
-            <li class="active"><a href="#">Home</a></li>
-            <li><a href="#about">About</a></li>
-            <li><a href="#contact">Contact</a></li>
+            <li class="{!!url()->current()==url('/') ? 'active' : ''!!}"><a href="/">Home</a></li>
+            <li class="{!!url()->current()==url('/demo') ? 'active' : ''!!}"><a href="/demo">Demo</a></li>
+            <li><a href="https://github.com/rafwell/laravel-simplegrid">GIT</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>

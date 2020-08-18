@@ -5,10 +5,10 @@
     "license": "MIT",
     "type": "project",
     "require": {
-        "php": ">=5.6.4",
+        "php": ">=7.2",
         "laravel/framework": "5.4.*",
         "laravel/tinker": "~1.0",
-        "rafwell/laravel-simplegrid": "~1.1"
+        "rafwell/laravel-simplegrid": "^2.1"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
